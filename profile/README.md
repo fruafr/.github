@@ -4,7 +4,7 @@ Thanks for visiting our public repository index page.
 
 ## Networking
 
-### Loging
+### Logging
 - [python-fruafr-log](https://github.com/fruafr/python-fruafr-log): Python fruafr.log - Basic logging utilities (CLI) + Tiny Syslog server `[MIT]`
 
 ### Mikrotik

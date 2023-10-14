@@ -5,7 +5,7 @@ Thanks for visiting our public repository index page.
 ## Networking
 
 ### Loging
--[python-fruafr-log](https://github.com/fruafr/python-fruafr-log): Python fruafr.log - Basic logging utilities (CLI) + Tiny Syslog server `[MIT]`
+- [python-fruafr-log](https://github.com/fruafr/python-fruafr-log): Python fruafr.log - Basic logging utilities (CLI) + Tiny Syslog server `[MIT]`
 
 ### Mikrotik
 - [mikrotik-routeros-docs](https://github.com/fruafr/mikrotik-routeros-docs): Mikrotik RouterOS documentation. List of commands, manuals, cheatsheets.

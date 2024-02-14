@@ -29,5 +29,7 @@ The following repositories are work in progress of Ansible collections provided 
 - [docker-ubuntu](https://github.com/fruafr/docker-ubuntu) : Build Ubuntu base containers with active apt sources.  `[Apache-2.0]`
 - [docker-debian](https://github.com/fruafr/docker-debian): Build Debian base containers with active apt sources.  `[Apache-2.0]`
 
+- [docker-rhel-clones](docker-rhel-clones) : Links to RHEL (or CentOS) clones and their docker files `[Apache-2.0]`
+
 ## Main Author
 - [David HEURTEVENT](https://github.com/dheurtev)

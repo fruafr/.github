@@ -39,7 +39,9 @@ The following repositories are work in progress of Ansible collections provided 
 - [scripts-admin-netplan](https://github.com/fruafr/scripts-admin-netplan): Various bash scripts and templates to configure netplan `[MIT]`
 - [scripts-admin-lxclxd](https://github.com/fruafr/scripts-admin-lxclxd): Various bash scripts and templates to configure LXC/LXD `[MIT]`
 
+### Miscellaneous
 - [templates-git](https://github.com/fruafr/templates-git): Various templates for git
+- [templates-licenses](https://github.com/fruafr/templates-licenses): License templates
 
 ## Main Author
 - [David HEURTEVENT](https://github.com/dheurtev)

@@ -23,6 +23,9 @@ The following repositories are work in progress of Ansible collections provided 
 - [ansible-fruafr-linux](https://github.com/fruafr/ansible-fruafr-linux) : Ansible collection to manage a linux server (Debian/Ubuntu focus). `[GPL-3.0]` 
 - [ansible-fruafr-virt](https://github.com/fruafr/ansible-fruafr-virt) : Ansible collection for virtualization tools (and containers).  `[GPL-3.0]`
 
+### Bash Scripts
+- [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks
+
 ## Containers
 ### Docker
 - [docker-fedora](https://github.com/fruafr/docker-fedora) : Build Fedora base containers with active dnf sources. `[Apache-2.0]`

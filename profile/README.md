@@ -24,7 +24,7 @@ The following repositories are work in progress of Ansible collections provided 
 - [ansible-fruafr-virt](https://github.com/fruafr/ansible-fruafr-virt) : Ansible collection for virtualization tools (and containers).  `[GPL-3.0]`
 
 ### Bash Scripts
-- [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks
+- [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`
 
 ## Containers
 ### Docker

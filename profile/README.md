@@ -23,10 +23,6 @@ The following repositories are work in progress of Ansible collections provided 
 - [ansible-fruafr-linux](https://github.com/fruafr/ansible-fruafr-linux) : Ansible collection to manage a linux server (Debian/Ubuntu focus). `[GPL-3.0]` 
 - [ansible-fruafr-virt](https://github.com/fruafr/ansible-fruafr-virt) : Ansible collection for virtualization tools (and containers).  `[GPL-3.0]`
 
-### Bash Scripts
-- [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`
-- [scripts-admin-netplan](https://github.com/fruafr/scripts-admin-netplan): Various bash scripts and templates to configure netplan `[MIT]`
-
 ## Containers
 ### Docker
 - [docker-fedora](https://github.com/fruafr/docker-fedora) : Build Fedora base containers with active dnf sources. `[Apache-2.0]`
@@ -37,6 +33,12 @@ The following repositories are work in progress of Ansible collections provided 
 - [docker-debian](https://github.com/fruafr/docker-debian): Build Debian base containers with active apt sources.  `[Apache-2.0]`
 
 - [docker-rhel-clones](docker-rhel-clones) : Links to RHEL (or CentOS) clones and their docker files `[Apache-2.0]`
+
+## Bash scripts and templates
+- [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`
+- [scripts-admin-netplan](https://github.com/fruafr/scripts-admin-netplan): Various bash scripts and templates to configure netplan `[MIT]`
+- [scripts-admin-lxclxd](https://github.com/fruafr/scripts-admin-lxclxd): Various bash scripts and templates to configure LXC/LXD `[MIT]`
+
 
 ## Main Author
 - [David HEURTEVENT](https://github.com/dheurtev)

@@ -15,8 +15,8 @@ Thanks for visiting our public repository index page.
 The following repositories are work in progress of Ansible collections provided as is (version 1.0 not uploaded on Ansible Galaxy).
 - [ansible-fruafr-apt](https://github.com/fruafr/ansible-fruafr-apt): Ansible collection for common apt package activities `[GPL-3.0]`
 - [ansible-fruafr-dnf](https://github.com/fruafr/ansible-fruafr-dnf): Ansible collection for common dnf package activities `[GPL-3.0]`
-- [ansible-fruafr-networking](https://github.com/fruafr/ansible-fruafr-networking): Ansible collection for networking tools. `[GPL-3.0]`
 - [ansible-fruafr-linux](https://github.com/fruafr/ansible-fruafr-linux) : Ansible collection to administer a Linux server. `[GPL-3.0]` 
+- [ansible-fruafr-networking](https://github.com/fruafr/ansible-fruafr-networking): Ansible collection for networking tools. `[GPL-3.0]`
 
 #### Older
 - [ansible-fruafr-routeros](https://github.com/fruafr/ansible-fruafr-routeros): Ansible collection for Mikrotik RouterOs.`[Apache-2.0]`

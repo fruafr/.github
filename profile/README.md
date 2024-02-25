@@ -17,9 +17,9 @@ The following repositories are work in progress of Ansible collections provided 
 - [ansible-fruafr-dnf](https://github.com/fruafr/ansible-fruafr-dnf): Ansible collection for common dnf package activities `[GPL-3.0]`
 - [ansible-fruafr-linux](https://github.com/fruafr/ansible-fruafr-linux) : Ansible collection to administer a Linux server. `[GPL-3.0]` 
 - [ansible-fruafr-networking](https://github.com/fruafr/ansible-fruafr-networking): Ansible collection for networking tools. `[GPL-3.0]`
+- [ansible-fruafr-routeros](https://github.com/fruafr/ansible-fruafr-routeros): Ansible collection for Mikrotik RouterOs.`[MIT]`
 
 #### Older
-- [ansible-fruafr-routeros](https://github.com/fruafr/ansible-fruafr-routeros): Ansible collection for Mikrotik RouterOs.`[Apache-2.0]`
 - [ansible-fruafr-dev](https://github.com/fruafr/ansible-fruafr-dev) : Ansible collection to install development tools. `[GPL-3.0]`
 - [ansible-fruafr-virt](https://github.com/fruafr/ansible-fruafr-virt) : Ansible collection for virtualization tools (and containers).  `[GPL-3.0]`
 

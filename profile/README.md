@@ -5,8 +5,7 @@ Thanks for visiting our public repository index page.
 ## Sysadmin
 
 - [rust-jsonhash](https://github.com/fruafr/rust-jsonhash): A command-line tool to generate hash values for files. SHA256 and MD5. Output and Error messages in JSON format.
-- [rust-jfsm](https://github.com/fruafr/rust-jfsm): A command-line tool to read file system metadata then return it in JSON format. Output and Error messages in JSON format.
-
+- [rust-jfsm](https://github.com/fruafr/rust-jfsm): A command-line tool to read file system metadata then return it in JSON format.
 
 ## Networking
 

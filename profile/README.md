@@ -11,6 +11,17 @@ Thanks for visiting our public repository index page.
 
 ## Networking
 
+### JSON-RPC
+
+- [rust-jsonrpcmsg](https://github.com/fruafr/rust-jsonrpcmsg): A Rust library to serialize (encode) and deserialize (parse) JSON-RPC messages.
+  - [ruste crate: jsonrpcmsg](https://crates.io/crates/jsonrpcmsg)  
+
+### HTTP
+
+- [rust-httpstatus2](https://github.com/fruafr/rust-httpstatus2): A Rust library handling http status codes. No dependencies.
+  - [ruste crate: httpstatus2](https://crates.io/crates/httpstatus2) 
+
+
 ### Logging
 - [python-fruafr-log](https://github.com/fruafr/python-fruafr-log): Python fruafr.log - Basic logging utilities (CLI) + Tiny Syslog server `[MIT]`
 

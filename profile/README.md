@@ -11,10 +11,6 @@ Thanks for visiting our public repository index page.
 
 ## Networking
 
-- [rust-httpstatus2](https://github.com/fruafr/rust-httpstatus2): A library handling http status codes (Rust).
-  - [rust crate: httpstatus2](https://crates.io/crates/httpstatus2)
-
-
 ### Logging
 - [python-fruafr-log](https://github.com/fruafr/python-fruafr-log): Python fruafr.log - Basic logging utilities (CLI) + Tiny Syslog server `[MIT]`
 

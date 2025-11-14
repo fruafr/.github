@@ -12,6 +12,10 @@ Thanks for visiting our public repository index page.
 ### Linux
 - [linux-pkg-list](https://github.com/fruafr/linux-pkg-list): Linux distributions - List of default packages installed in their docker images. Covers Alpine, Debian (Debian, Ubuntu) and RedHat families (AlmaLinux, RockyLinux, OracleLinux, Fedora)
 
+### Miscellaneous
+- [templates-git](https://github.com/fruafr/templates-git): Various templates for git
+- [templates-licences](https://github.com/fruafr/templates-licences): License templates
+
 ## Networking
 
 ### JSON-RPC
@@ -24,6 +28,7 @@ Thanks for visiting our public repository index page.
 - [rust-httpstatus2](https://github.com/fruafr/rust-httpstatus2): A Rust library handling http status codes. No dependencies.
   - [ruste crate: httpstatus2](https://crates.io/crates/httpstatus2) 
 
+## OLD
 
 ### Logging
 - [python-fruafr-log](https://github.com/fruafr/python-fruafr-log): Python fruafr.log - Basic logging utilities (CLI) + Tiny Syslog server `[MIT]`
@@ -59,10 +64,6 @@ The following repositories are work in progress of Ansible collections provided 
 - [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`
 - [scripts-admin-netplan](https://github.com/fruafr/scripts-admin-netplan): Various bash scripts and templates to configure netplan `[MIT]`
 - [scripts-admin-lxclxd](https://github.com/fruafr/scripts-admin-lxclxd): Various bash scripts and templates to configure LXC/LXD `[MIT]`
-
-### Miscellaneous
-- [templates-git](https://github.com/fruafr/templates-git): Various templates for git
-- [templates-licences](https://github.com/fruafr/templates-licences): License templates
 
 ## Main Author
 - [David HEURTEVENT](https://github.com/dheurtev)

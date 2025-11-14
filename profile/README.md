@@ -11,6 +11,7 @@ Thanks for visiting our public repository index page.
 
 ### Linux
 - [linux-pkg-list](https://github.com/fruafr/linux-pkg-list): Linux distributions - List of default packages installed in their Docker images. Covers Alpine, Debian (Debian, Ubuntu) and RedHat families (AlmaLinux, RockyLinux, OracleLinux, Fedora)
+- [docker-rhel-clones](https://github.com/fruafr/docker-rhel-clones): Links to RHEL (or CentOS) clones and their docker files
 
 ### Miscellaneous
 - [templates-git](https://github.com/fruafr/templates-git): Various templates for git
@@ -57,8 +58,6 @@ The following repositories are work in progress of Ansible collections provided 
 - [docker-alpine](https://github.com/fruafr/docker-alpine) : Build Alpine base containers with active apk sources. `[Apache-2.0]`
 - [docker-ubuntu](https://github.com/fruafr/docker-ubuntu) : Build Ubuntu base containers with active apt sources.  `[Apache-2.0]`
 - [docker-debian](https://github.com/fruafr/docker-debian): Build Debian base containers with active apt sources.  `[Apache-2.0]`
-
-- [docker-rhel-clones](docker-rhel-clones) : Links to RHEL (or CentOS) clones and their docker files `[Apache-2.0]`
 
 ## Bash scripts and templates
 - [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`

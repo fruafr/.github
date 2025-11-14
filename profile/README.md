@@ -10,8 +10,7 @@ Thanks for visiting our public repository index page.
   - [rust crate: jfsm](https://crates.io/crates/jfsm)
 
 ### Linux
-- [Linux distributions - List of default packages installed in their docker images](https://github.com/fruafr/linux-pkg-list): Covers Alpine, Debian (Debian, Ubuntu) and RedHat families (AlmaLinux, RockyLinux, OracleLinux, Fedora)
-
+- [linux-pkg-list](https://github.com/fruafr/linux-pkg-list): Linux distributions - List of default packages installed in their docker images. Covers Alpine, Debian (Debian, Ubuntu) and RedHat families (AlmaLinux, RockyLinux, OracleLinux, Fedora)
 
 ## Networking
 

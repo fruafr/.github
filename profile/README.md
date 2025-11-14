@@ -59,7 +59,7 @@ The following repositories are work in progress of Ansible collections provided 
 
 ### Miscellaneous
 - [templates-git](https://github.com/fruafr/templates-git): Various templates for git
-- [templates-licenses](https://github.com/fruafr/templates-licenses): License templates
+- [templates-licences](https://github.com/fruafr/templates-licences): License templates
 
 ## Main Author
 - [David HEURTEVENT](https://github.com/dheurtev)

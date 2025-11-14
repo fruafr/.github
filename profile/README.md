@@ -9,6 +9,10 @@ Thanks for visiting our public repository index page.
 - [rust-jfsm](https://github.com/fruafr/rust-jfsm): A command-line tool to read file system metadata then return it in JSON format (output and errors).
   - [rust crate: jfsm](https://crates.io/crates/jfsm)
 
+### Linux
+- [Linux distributions - List of default packages installed in their docker images](https://github.com/fruafr/linux-pkg-list): Covers Alpine, Debian (Debian, Ubuntu) and RedHat families (AlmaLinux, RockyLinux, OracleLinux, Fedora)
+
+
 ## Networking
 
 ### JSON-RPC

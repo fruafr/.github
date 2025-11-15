@@ -11,7 +11,6 @@ Thanks for visiting our public repository index page.
 
 ### Linux
 - [linux-pkg-list](https://github.com/fruafr/linux-pkg-list): Linux distributions - List of default packages installed in their Docker images. Covers Alpine, Debian (Debian, Ubuntu) and RedHat families (AlmaLinux, RockyLinux, OracleLinux, Fedora)
-- [docker-rhel-clones](https://github.com/fruafr/docker-rhel-clones): Links to RHEL (or CentOS) clones and their docker files
 
 ### Miscellaneous
 - [templates-git](https://github.com/fruafr/templates-git): Various templates for git
@@ -33,6 +32,7 @@ Thanks for visiting our public repository index page.
 ### Docker
 - [docker-debian](https://github.com/fruafr/docker-debian): Debian base Docker containers with active apt sources.  `[Apache-2.0]`
 - [docker-ubuntu](https://github.com/fruafr/docker-ubuntu) : Ubuntu base containers with active apt sources.  `[Apache-2.0]`
+- [docker-rhel-clones](https://github.com/fruafr/docker-rhel-clones): Links to RHEL (or CentOS) clones and their docker files `[MIT]`
 
 ## OLD
 

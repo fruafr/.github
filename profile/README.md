@@ -29,6 +29,10 @@ Thanks for visiting our public repository index page.
 - [rust-httpstatus2](https://github.com/fruafr/rust-httpstatus2): A Rust library handling http status codes. No dependencies.
   - [ruste crate: httpstatus2](https://crates.io/crates/httpstatus2) 
 
+## Containers
+### Docker
+- [docker-debian](https://github.com/fruafr/docker-debian): Debian base Docker containers with active apt sources.  `[Apache-2.0]`
+
 ## OLD
 
 ### Logging
@@ -49,15 +53,11 @@ The following repositories are work in progress of Ansible collections provided 
 #### Older
 - [ansible-fruafr-dev](https://github.com/fruafr/ansible-fruafr-dev) : Ansible collection to install development tools. `[GPL-3.0]`
 - [ansible-fruafr-virt](https://github.com/fruafr/ansible-fruafr-virt) : Ansible collection for virtualization tools (and containers).  `[GPL-3.0]`
-
-## Containers
-### Docker
 - [docker-fedora](https://github.com/fruafr/docker-fedora) : Build Fedora base containers with active dnf sources. `[Apache-2.0]`
 - [docker-archlinux](https://github.com/fruafr/docker-archlinux) : Build Arch Linux base containers with active pacman sources. `[Apache-2.0]`
 - [docker-opensuse](https://github.com/fruafr/docker-opensuse) : Build OpenSuse Leap base containers with active zipper sources. `[Apache-2.0]`
 - [docker-alpine](https://github.com/fruafr/docker-alpine) : Build Alpine base containers with active apk sources. `[Apache-2.0]`
 - [docker-ubuntu](https://github.com/fruafr/docker-ubuntu) : Build Ubuntu base containers with active apt sources.  `[Apache-2.0]`
-- [docker-debian](https://github.com/fruafr/docker-debian): Build Debian base containers with active apt sources.  `[Apache-2.0]`
 
 ## Bash scripts and templates
 - [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`

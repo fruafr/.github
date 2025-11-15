@@ -42,7 +42,8 @@ Thanks for visiting our public repository index page.
 
 #### Others
 - [docker-alpine](https://github.com/fruafr/docker-alpine) : Alpine base Docker containers with active apk sources. `[Apache-2.0]`
-- [docker-archlinux](https://github.com/fruafr/docker-archlinux) : Build Arch Linux base containers with active pacman sources. `[Apache-2.0]`
+- [docker-archlinux](https://github.com/fruafr/docker-archlinux) : Build Arch Linux base Docker containers with active pacman sources. `[Apache-2.0]`
+- [docker-opensuse](https://github.com/fruafr/docker-opensuse) : Build OpenSuse Leap base Docker containers with active zipper sources. `[Apache-2.0]`
 
 ## OLD
 
@@ -64,7 +65,6 @@ The following repositories are work in progress of Ansible collections provided 
 #### Older
 - [ansible-fruafr-dev](https://github.com/fruafr/ansible-fruafr-dev) : Ansible collection to install development tools. `[GPL-3.0]`
 - [ansible-fruafr-virt](https://github.com/fruafr/ansible-fruafr-virt) : Ansible collection for virtualization tools (and containers).  `[GPL-3.0]`
-- [docker-opensuse](https://github.com/fruafr/docker-opensuse) : Build OpenSuse Leap base containers with active zipper sources. `[Apache-2.0]`
 
 ## Bash scripts and templates
 - [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`

@@ -31,7 +31,8 @@ Thanks for visiting our public repository index page.
 ## Containers
 ### Docker
 - [docker-debian](https://github.com/fruafr/docker-debian): Debian base Docker containers with active apt sources.  `[Apache-2.0]`
-- [docker-ubuntu](https://github.com/fruafr/docker-ubuntu) : Ubuntu base containers with active apt sources.  `[Apache-2.0]`
+- [docker-ubuntu](https://github.com/fruafr/docker-ubuntu) : Ubuntu base Docker containers with active apt sources.  `[Apache-2.0]`
+- [docker-alpine](https://github.com/fruafr/docker-alpine) : Alpine base Docker containers with active apk sources. `[Apache-2.0]`
 - [docker-rhel-clones](https://github.com/fruafr/docker-rhel-clones): Links to RHEL (or CentOS) clones and their docker files `[MIT]`
 
 ## OLD
@@ -57,7 +58,6 @@ The following repositories are work in progress of Ansible collections provided 
 - [docker-fedora](https://github.com/fruafr/docker-fedora) : Build Fedora base containers with active dnf sources. `[Apache-2.0]`
 - [docker-archlinux](https://github.com/fruafr/docker-archlinux) : Build Arch Linux base containers with active pacman sources. `[Apache-2.0]`
 - [docker-opensuse](https://github.com/fruafr/docker-opensuse) : Build OpenSuse Leap base containers with active zipper sources. `[Apache-2.0]`
-- [docker-alpine](https://github.com/fruafr/docker-alpine) : Build Alpine base containers with active apk sources. `[Apache-2.0]`
 
 ## Bash scripts and templates
 - [scripts-admin-libvirt](https://github.com/fruafr/scripts-admin-libvirt): Various bash scripts for libvirt/KVM admin tasks `[MIT]`

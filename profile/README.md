@@ -2,6 +2,9 @@
 
 Thanks for visiting our public repository index page.
 
+## Rust
+- [rust-lang](https://github.com/fruafr/rustlang): rust language resources
+
 ## Sysadmin
 
 - [rust-jsonhash](https://github.com/fruafr/rust-jsonhash): A command-line tool to generate hash values for files. SHA256 and MD5. Output and Error messages in JSON format.
@@ -17,7 +20,7 @@ Thanks for visiting our public repository index page.
 - [templates-git](https://github.com/fruafr/templates-git): Various templates for git
 - [templates-licences](https://github.com/fruafr/templates-licences): License templates
 
-## Networking
+## Network programming
 
 ### JSON-RPC
 
